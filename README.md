@@ -2,8 +2,7 @@
 
 ## Author
 
-Anri Javakhishvili - javakhishvili.anri@kiu.edu.ge
-
+Gvantsa Thuradze 
 ## Final Product Screenshot
 
 ![](public/screenshot.png)
