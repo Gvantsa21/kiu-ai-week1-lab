@@ -23,7 +23,7 @@ Gvantsa Thuradze
 
 ### 4. Personalized Footer
 
-- **Description:** I added a footer to the application using a `<footer>` element with the class "footer". I wrote a JavaScript function called `getCurrentDate()` in `script.js` that runs when the page loads to dynamically generate the current date using `new Date()` and format it using `toLocaleDateString()` with options for long-form month display. The footer displays my KIU email address (javakhishvili.anri@kiu.edu.ge) along with the copyright symbol, current year, and dynamically generated date in the format: "© 2025 javakhishvili.anri@kiu.edu.ge - October 11, 2025".
+- **Description:** I added a footer to the application using a `<footer>` element with the class "footer". I wrote a JavaScript function called `getCurrentDate()` in `script.js` that runs when the page loads to dynamically generate the current date using `new Date()` and format it using `toLocaleDateString()` with options for long-form month display. The footer displays my KIU email address (Tchuradze.gvantsa@kiu.edu.ge) along with the copyright symbol, current year, and dynamically generated date in the format:  - October 11, 2025".
 
 ## How to Run This Project
 
